@@ -4,6 +4,28 @@ This dictionary defines how capability signals are interpreted across Tillo role
 
 Seniority reflects scope, ownership, and decision influence rather than years of experience.
 
+Interpret signals relative to:
+
+- team maturity
+- delivery environment
+- stakeholder surface area
+- organisational complexity
+
+
+## Calibration guidance
+
+Capability signals should be interpreted relative to:
+
+- team maturity
+- delivery complexity
+- stakeholder surface area
+- organisational scale
+
+Previous job titles and years of experience are not treated as reliable indicators of level.
+
+Level alignment should prioritise ownership, decision authority, and delivery scope.
+
+
 ---
 
 ## Ownership
@@ -22,6 +44,7 @@ Owns direction of delivery across multiple workstreams or a team-level domain.
 
 Head of
 Owns organisational delivery areas and ensures outcomes across teams align with business priorities.
+
 
 ---
 
@@ -42,6 +65,7 @@ Frames problems and aligns teams around approaches.
 Head of
 Defines strategic problem spaces and ensures organisational clarity on priorities.
 
+
 ---
 
 ## Ambiguity handling
@@ -60,6 +84,7 @@ Creates clarity for others working in ambiguous environments.
 
 Head of
 Operates effectively in high ambiguity and defines direction at organisational level.
+
 
 ---
 
@@ -80,6 +105,7 @@ Aligns teams and functions around shared delivery direction.
 Head of
 Aligns leadership stakeholders and resolves competing priorities.
 
+
 ---
 
 ## Delivery scope
@@ -98,6 +124,7 @@ Multi-system or programme-level delivery.
 
 Head of
 Portfolio-level or organisational delivery ownership.
+
 
 ---
 
@@ -118,6 +145,7 @@ Sets decision frameworks used by teams.
 Head of
 Defines organisational decision direction and trade-off strategy.
 
+
 ---
 
 ## Cross-team influence
@@ -137,6 +165,7 @@ Shapes alignment between teams and functions.
 Head of
 Drives alignment across organisational boundaries.
 
+
 ---
 
 ## Execution pace
@@ -145,13 +174,29 @@ Junior
 Delivers reliably with support and structure.
 
 Mid
-Delivers consistently and independently.
+Delivers consistently and independently across scoped responsibilities.
 
 Senior
-Balances speed with quality across complex delivery areas.
+Balances speed and quality across complex delivery environments.
 
 Lead
-Optimises team-level execution effectiveness.
+Improves execution effectiveness across teams and removes delivery friction.
 
 Head of
-Ensures organisational delivery momentum and prioritisation clarity.
+Ensures organisational delivery momentum through prioritisation clarity and alignment.
+
+
+---
+
+## Using this dictionary in evaluation
+
+Candidates rarely align perfectly to a single level across all dimensions.
+
+Level calibration should reflect:
+
+- the highest consistent scope demonstrated
+- the complexity of environments worked in
+- the decision authority held
+- the stakeholder surface area navigated
+
+Differences between dimensions should be explored during interview rather than treated as disqualifying.

@@ -20,3 +20,22 @@ We consider:
 - ambiguity handling
 - execution consistency
 - learning velocity
+
+rather than single checklist matches.
+
+## Domain relevance varies by role family
+Transferability expectations differ depending on role context.
+
+Domain experience is often critical in:
+
+- product
+- commercial
+- operations
+- marketing
+
+and typically less critical in:
+
+- engineering
+- people functions
+
+Role playbooks define where domain exposure is required.
